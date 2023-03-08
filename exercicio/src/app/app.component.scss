@@ -1,0 +1,44 @@
+.cabecalho {
+  background-color: blueviolet;
+  padding: 2rem;
+  text-align: center;
+}
+
+.cabecalho h2 {
+   color: whitesmoke;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  margin: 1rem 8rem 0 8rem;
+
+}
+
+.container h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.texto__centro {
+  padding: 0 16rem 0 16rem;
+  text-align: center;
+}
+
+.texto__duplicado {
+  display: block;
+  padding-top: 2rem;
+  margin-left: 12rem;
+}
+
+.texto__maior {
+  float: left;
+  padding: 1rem;
+  text-align: justify;
+  width: 40%;
+}
+
+.texto__maior  h2{
+
+}
